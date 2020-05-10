@@ -1,0 +1,15 @@
+{
+    "name": "lc-filters",
+    "private": true,
+    "version": "1.0.0",
+    "description": "An LC ladder filter calculator",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "John Maxwell",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^26.0.1"
+    }
+}
